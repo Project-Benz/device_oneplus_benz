@@ -291,6 +291,7 @@ $(call soong_config_set,qtipower,tap_to_wake_node,/proc/touchpanel/double_tap_en
 
 # QSPA
 PRODUCT_PACKAGES += \
+    qspa_vendor.rc \
     vendor.qti.qspa-service
 
 # QTI fwk-detect
