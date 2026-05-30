@@ -39,8 +39,6 @@ lib_fixups: lib_fixups_user_type = {
     (
         'com.qualcomm.qti.dpm.api@1.0',
         'libhwconfigurationutil',
-        'vendor.oplus.hardware.cammidasservice-V1-ndk',
-        'vendor.oplus.hardware.communicationcenter-V2-ndk',
         'vendor.qti.diaghal@1.0',
         'vendor.qti.hardware.dpmservice@1.0',
         'vendor.qti.hardware.qccsyshal@1.0',
