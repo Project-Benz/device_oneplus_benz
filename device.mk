@@ -458,7 +458,7 @@ PRODUCT_PACKAGES += \
     firmware_WCNSS_qcom_cfg.ini_symlink
 
 # Dolby
-$(call inherit-product, vendor/oneplus/dolby/config.mk)
+$(call inherit-product, vendor/dolby/dolby-setup.mk)
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/benz/benz-vendor.mk)

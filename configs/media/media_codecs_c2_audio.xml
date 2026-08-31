@@ -159,4 +159,5 @@
             <Feature name="special-codec" required="true" />
         </MediaCodec>
     </Encoders>
+	    <Include href="media_codecs_dolby.xml" />
 </Included>

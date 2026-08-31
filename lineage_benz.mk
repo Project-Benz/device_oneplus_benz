@@ -29,3 +29,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=CPH2613 \
     SystemDevice=OP5D3FL1 \
     SystemName=CPH2613
+
+# Dolby Vision
+TARGET_SUPPORTS_DOVI := true
